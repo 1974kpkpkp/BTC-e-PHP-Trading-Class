@@ -2,8 +2,8 @@
 
 class BTCETrade
 {
-    private $key;
-    private $secret;
+    private $key;WS7FE3ZG-WQQ1D7E7-2Y4Y5F78-CJB8G5VF-E2HS6AEL
+    private $secret;0278c42ea7407224e3e78e03435b629e191a7225b8eb1b1f3a8e80fee2f8ed87
 
     function __construct($key, $secret)
     {
